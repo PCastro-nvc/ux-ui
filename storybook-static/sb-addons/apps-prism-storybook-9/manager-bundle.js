@@ -1,0 +1,3 @@
+try{
+(()=>{var l=__STORYBOOK_API__,{ActiveTabs:d,Consumer:m,ManagerContext:h,Provider:p,addons:r,combineParameters:y,controlOrMetaKey:b,controlOrMetaSymbol:_,eventMatchesShortcut:O,eventToShortcut:T,isMacLike:A,isShortcutTaken:g,keyToSymbol:k,merge:M,mockChannel:P,optionOrAltSymbol:C,shortcutMatchesShortcut:f,shortcutToHumanString:v,types:x,useAddonState:K,useArgTypes:B,useArgs:G,useChannel:H,useGlobalTypes:I,useGlobals:R,useParameter:Y,useSharedState:L,useStoryPrepared:j,useStorybookApi:q,useStorybookState:w}=__STORYBOOK_API__;r.setConfig({sidebar:{filters:{patterns:s=>!s.tags.includes("isHidden")}}});})();
+}catch(e){ console.error("[Storybook] One of your manager-entries failed: " + import.meta.url, e); }
